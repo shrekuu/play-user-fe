@@ -1,0 +1,6 @@
+!.*.js
+**/yarn.lock
+**/package-lock.json
+**/pnpm-lock.yaml
+**/.next/**
+**/node_modules/**
